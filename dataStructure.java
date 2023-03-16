@@ -1,6 +1,6 @@
 
 public class myQueue {
-  int SIZE = 5; // Size of  Queue
+  int SIZE = 5; // Size
   int front, back;
   int items[] = new int[SIZE];
 
